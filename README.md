@@ -1,1 +1,1 @@
-# compgeo_demos
+# Computational Geometry Demos
